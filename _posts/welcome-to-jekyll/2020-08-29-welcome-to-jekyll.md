@@ -13,8 +13,8 @@ Security in crypto is paramount. Learn how to stay vigilant against hacks and cr
 **What Can I Do to Stay Safe?**
 
 When it comes to safety and privacy, we must take extra precaution even though it may at times seem excessive.
-_
-**Choosing a Strong Password**_
+
+_**Choosing a Strong Password**_
 
 First things first, creating a strong password for accessing your wallet via the browser.
 
