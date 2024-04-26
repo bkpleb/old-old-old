@@ -21,11 +21,8 @@ There are several password managers that allow you to generate and store complex
 Basic requirements are:
 
 - Use of lowercase and uppercase letters
-
 - Use of numbers
-
 - Use of symbols
-
 - Is at least 10 characters long
 
 _**Storing Your Seed Phrase**_
@@ -37,15 +34,12 @@ Conducting Your Own Research
 There are several reputable password managers in the market today. However, there are certain things to keep in mind.
 
 - Avoid the ones that have been recently hacked and breached (e.g. LastPass).
-
 - If possible, check the password manager’s security model to ensure the data you entrust to it would be effectively impossible to decrypt.
 
 For backing up your seed phrase, as we’ve already mentioned, there are a couple of ways of doing so. Choosing the right backup strategy for you is important.
 
 - Figure out whether you want to back it up digitally (locally on PC) or physically (e.g. steel plates).
-
 - Avoid third-party involvement as much as possible.
-
 - Never upload your seed phrase online, it will be at risk of exposure.
 
 _**Beware of Scams and Phishing**_
